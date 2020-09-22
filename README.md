@@ -1,4 +1,4 @@
-# cMining for Bias
+# Mining for Bias
 
 Team Members (netids): behera3,  vwkao2, riyaj3, michalj2
 Team PM: Aileen Long(linjial2)
